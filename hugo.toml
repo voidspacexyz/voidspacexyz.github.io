@@ -1,0 +1,80 @@
+baseURL = "https://voidspace.xyz"
+title = "V's Blog"
+author = "VoidSpaceXYZ"
+copyright = "All content licensed under CC-By-SA-4.0 or above unless otherwise noted"
+pagerSize = 10
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+theme = "paper"
+
+[params]
+# color style
+color = 'linen'
+
+# header social icons
+twitter = 'voidspacexyz'
+mastodon = 'https://mastodon.xyz/@voidspace.xyz'
+github = 'voidspacexyz'
+instagram = 'voidspacexyz'
+rss = true
+
+# home page profile
+avatar = 'null@voidspace.xyz'
+name = 'VoidSpaceXYZ'
+bio = 'Views from the eyes of a simple intersectionalist !'
+
+
+# needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+   [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 10
+   [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "https://gitconnected.com/voidspacexyz/resume"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+  [services.instagram]
+    disableInlineCSS = true
+  [services.twitter]
+    disableInlineCSS = true
