@@ -20,6 +20,9 @@
 # Go workspace file
 go.work
 go.work.sum
+.hugo_build.lock
 
 # env file
 .env
+public/ 
+
