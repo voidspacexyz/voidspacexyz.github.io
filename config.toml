@@ -1,4 +1,4 @@
-baseURL = "https://voidspace.xyz"
+baseURL = "https://voidspacexyz.github.io/blog/"
 languageCode = "en-us"
 title = "My Digital Garden"
 theme = "hugo-digital-garden-theme"
