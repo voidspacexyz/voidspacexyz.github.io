@@ -1,3 +1,3 @@
-module github.com/nanxiaobei/hugo-paper
+module github.com/paulmartins/hugo-digital-garden-theme
 
-go 1.23.1
+go 1.23.2
