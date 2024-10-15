@@ -6,7 +6,7 @@ garden_tags: [
     "python",
     "interview"
 ]
-status: evergreen
+status: icebox
 ---
 
 My first interview question to anybody, their responses and my learnings

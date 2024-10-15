@@ -4,7 +4,7 @@ date: 2024-07-22
 draft: false
 garden_tags: ["kubernetes", "devops"]
 summary: " "
-status: "evergreen"
+status: "seeding"
 ---
 
 # Kubernetes - Getting Started on Azure

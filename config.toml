@@ -1,7 +1,7 @@
 baseURL = "https://voidspacexyz.github.io/"
 languageCode = "en-us"
 title = "My Digital Garden"
-theme = "hugo-digital-garden-theme"
+theme = "blog-theme"
 copyright = "All content licensed under CC-By-SA-4.0 or above unless otherwise noted"
 enableGitInfo = true
 enableRobotsTXT = true

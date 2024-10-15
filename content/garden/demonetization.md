@@ -3,7 +3,7 @@ title: "Demonetization"
 date: "2016-11-19"
 summary: "Demonetization was one of the biggest tragedies of the NDA government"
 garden_tags: ["demonetization"]
-status: "evergreen"
+status: "icebox"
 ---
 
 

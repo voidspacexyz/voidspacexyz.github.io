@@ -3,7 +3,7 @@ title: "Why do I Free Software !"
 date: 2021-11-11
 description: "The Impact of Free Basics or Internet.org and Net Neutrality to everybody "
 garden_tags: ["freedom","software"]
-status: "growing"
+status: "evergreen"
 
 ---
 
