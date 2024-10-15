@@ -1,17 +1,12 @@
-+++
-author = "VoidSpaceXYZ"
-title = "When should we quit ?"
-date = "2018-03-18"
-description = "My thoughts when someone asked me 'Should we stop CHARCHA ?'"
-tags = [
+---
+title: "When should we quit ?"
+date: "2018-03-18"
+description: "My thoughts when someone asked me 'Should we stop CHARCHA ?'"
+garden_tags: [
     "python",
 ]
-categories = [
-    "python",
-]
-series = []
-+++
-
+status: evergreen
+---
 
 I had been working on a project called [CHARCHA](https://web.archive.org/web/20230610120637/http://charcha.space/?ref=voidspacexyzs-blog), for quite sometime now. The aim of this project is not to reinvent something that already exists, rather combine a few tools to make a workflow better.  Before building thus product , I have to confess that I have worked for 2 other companies and NY present is the 3rd startup I am working for. In all these cases, I have failed a lot of times , even thought of quitting a lot if time.  But I never quit, tough I took my time to finish things, I always finished things. I never gave up.
 

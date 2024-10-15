@@ -2,10 +2,10 @@
 title: "PLASMA"
 date: 2021-08-01
 draft: false
-project_tags: ["python","decentralization"]
+project_tags: ["python","decentralization","archives"]
 status: "evergreen"
 weight: 2
-summary: "Example of markdown syntax you can use to edit your content"
+summary: "Hypermedia storytelling, archiving and media making through Audio and Video."
 links:
     external_link:
         text: "Public PLASMA instance"
@@ -14,113 +14,14 @@ links:
         weight: 1
 ---
 
-This is just an intro paragraph to show how the initial letter of each article or post will look.
-The rest of the page shows you the markdown syntax supported by this theme: headings, typography, images, blockquote, lists, code blocks and tables.
-For more markdown syntax guide, please see this [link](https://www.markdownguide.org/basic-syntax/).
+We have been telling stories, re-telling stories and weaving incredibly complex network of stories. How can Internet standards, protocols and tools support this basic human need? How can a hyper-media Web of inter-linked stories become discoverable and navigable content for all - inclusive of low-literate people. How can Internet technologies help archive, reshape, reinterpret, and reinvent to assist the natural ways of storytelling and help capture oral histories and local knowledge directly by the people for the first time in human evolution?
 
----
+We are working on Papad, a hypermedia annotation tool that can be used across devices and in regions with low internet connectivity and low-literate populations. Tools like papad have significant potential in creating and disseminating knowledge that is audio/video-based, and therefore accessible to populations with lower literacy levels. It can assist anyone in voicing their views on their community related topics. It would be a way to preserve and revive the knowledge for next generation. As a tool to share, learn and explore from other communities’ perspectives on art, culture, education, technology, tradition for health and farming.
 
-# Heading level 1
-## Heading level 2 {#custom-id-2}
-### Heading level 3
-#### Heading level 4
+Our research focus has been on web accessibility for Indian needs in the local context of culture, literacy, and socio-economic conditions. One can upload an audio recording to a local server, browse, listen to audio and tag the entire audio or relevant parts (fragments), annotate a image tag, which can later be used in making audio visual stories that is relevant for the communities. Papad aims to be the audio visual publishing platform for the low literates, without barriers of knowing to read and write.
 
----
+Source is available [here](https://open.janastu.org/projects/papad)
 
-This is the first line **with bold text**.
-This is the second line *with italic text*.
-This is the third line  ***with bold italic text***.
-This is the fourth line ~~with strikethrough text~~.
-This is the fifth line [with a link to heading level 2](#custom-id-2).
-This is the sixth line with emoji 🥳.
+Media mentions
 
-First Term
-: This is the definition of the first term.
-
-Second Term
-: This is one definition of the second term.
-: This is another definition of the second term.
-
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
-
-[^1]: This is the first footnote.
-
-[^bignote]: Here's one with multiple paragraphs and code.
-
-    Indent paragraphs to include them in the footnote.
-
-    `{ my code }`
-
-    Add as many paragraphs as you like.
-
----
-
-> This is a blockquote.
-
-> This is a blockquote
->
-> with multiple paragraphs
-
-> This is a
->
->> nested blockquote
-
-> ### This is a header level 3
->
-> - First item
-> - Second item.
->
->  *Italic* and also **bold** are supported.
-
----
-
-{{< figure src="jessica-weiller-GAw5wFLVWVo-unsplash.jpg" title="Just chilling on my favorite tree in San Diego Zoo" width="100%" attr="https://unsplash.com/@jweiller?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">}}
-
-
-For more image processing methods, you can create your own shortcode. Check this [link](https://gohugo.io/content-management/image-processing/) to see what you can do.
-
----
-
-Ordered list:
-
-1. First item
-2. Second item
-3. Third item
-    1. Indented item
-    2. Indented item
-4. Fourth item
-
-Unordered lists:
-- First item
-- Second item
-- Third item
-    - Indented item
-    - Indented item
-- Fourth item
-
----
-
-This is an `inline code block`. See below for a multi-line code block with syntax highlighting.
-
-```python
-# Python syntax highlighting
-def it_is_true():
-    return True
-
-def it_is_false():
-    return False
-```
-
-```css
-/* CSS syntax highlighting */
-html {
-    text-align: left;
-}
-```
-
----
-
-| Column 1 | Column 2 |
-|:---------|:---------|
-| Cell 1,1 | Cell 1,2 |
-| Cell 2,1 | Cell 2,2 |
+1.  [PublicGoodAppHouse](https://acceleratingmakers.publicgoodapphouse.org/blog/_blog-posts/janastu-enhancing-agency-privacy-and-resiliency-in-data-storage-for-community-media)

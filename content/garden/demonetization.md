@@ -1,16 +1,10 @@
-+++
-author = "VoidSpaceXYZ"
-title = "Demonetization"
-date = "2016-11-19"
-description = "Demonetization was one of the biggest tragedies of the NDA government"
-tags = [
-    "demonetization",
-]
-categories = [
-    "politics",
-]
-series = []
-+++
+---
+title: "Demonetization"
+date: "2016-11-19"
+summary: "Demonetization was one of the biggest tragedies of the NDA government"
+garden_tags: ["demonetization"]
+status: "evergreen"
+---
 
 
 "Certainly the End of something or other,One would sort of have to think" -- David Foster Wallace.
@@ -25,8 +19,8 @@ The first conversation was on the day next to the announcement, in my workplace.
 
 Lets take 3 examples.`
 
-1. A person who sells, "Packaged tap water" for 22/- when the MRP is 20/- 
-2. A real estate person, who sells a house for 50L on paper, plus 50L as separate unaccounted cash, to escape tax.  
+1. A person who sells, "Packaged tap water" for 22/- when the MRP is 20/-
+2. A real estate person, who sells a house for 50L on paper, plus 50L as separate unaccounted cash, to escape tax.
 3. A money lender, who lends money for higher interests.`
 
 Now if we consider these 3 cases, all the 3 cases, the activity performed by them is called a black activity. The extra money that is not accounted for, is called Unaccounted money. If we properly analyze, the shop selling water bottles, would possibly make about, 200 extra bucks a day, but the person selling the flat, would possibly make about 50L. Now if we take the last case, the typical money lender, lends money at 14% interest, the 14% interest is unaccounted money. Now which of this money has to be actually cribbed ? The 2/- or the 50L . On the moral side, we should curb the 50L, but that dosen't justify the 2/- as right. But that will solve the need for the shop vendor to not ask for that 2/- Why am I saying it, when large hoards of Unaccounted Money stays around, the economy is completely unbalanced. regulating that, would eventually lead to a better economy balance, and in turn better rules that govt the money among people.

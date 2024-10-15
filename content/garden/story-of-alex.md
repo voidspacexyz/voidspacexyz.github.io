@@ -1,16 +1,10 @@
-+++
-author = "VoidSpaceXYZ"
-title = "The story of Alex."
-date = "2017-09-11"
-description = ""
-tags = [
-    "people",
-]
-categories = [
-    "people",
-]
-series = []
-+++
+---
+title: "The story of Alex."
+date: "2017-09-11"
+summary: "Here is a short summarys"
+garden_tags: ["people"]
+status: evergreen
+---
 
 Alex(Name changed) and I met in Mangalore. Alex came there to give a talk and I was happy to meet Alex on my trip to Mangalore. It was an extremely fun trip. We visited the beach, played hard , talked a lot, but through out the trip, Alex kept distance from me. I was curious, but never asked anything. We went out on our day's planned routine to meet a bunch of people, and we were both due to leave Mangalore the day night. We decided to best utilize this day since we were not sure when we would meet next. During the evening Alex looked a lot emotional, the face wanting to say something but never got the notice it desired. During the evening when we finally settled down, and sitting in a room, it was very clear for me that Alex wanted to say something.
 
@@ -26,7 +20,7 @@ Alex was in 7th grade, and was happily going to school in the new city. Alex's p
 
 The new house brought Alex a lot of happiness. The girl in the neighbor house, soon because friends, and they became siblings from different mothers. After school, everyday, they used to stand in the terrace , in the gleaming sun and talk for hours together. For a few months, this went on, and Alex was living the most happiest part of life.
 
-!# I dont have the strength to say more of Alex's story. I am cut-shorting most of it.
+I dont have the strength to say more of Alex's story. I am cut-shorting most of it.
 
 Well, when the rising sun, sets, the dark is always full of terrors. Soon, Alex had to face more of the fear, that Alex wanted to run away from. People around Alex were too observant, and slowly approached Alex. Only this time, there were more people. There were women, there were men. Everyday molestation , most of them really forceful ones, and Alex was left with lovely parents whom Alex was too afraid to tell. The wheel kept rotating with no end. The most fearful incident that Alex was made to do was, one of the molesters forcefully made Alex drunk and made Alex molest yet another small kid. A small kid, half the age of Alex and the opposite gender than Alex. Alex did not even know who it was, how did they get the kid here. Alex had no go. Alex afraid of most of these things, used to keep roaming in the cycle most of the time. But the molesters didn't have heart and never missed a minute. The so called religions places, made no difference to Alex.
 

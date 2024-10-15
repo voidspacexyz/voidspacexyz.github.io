@@ -1,16 +1,11 @@
-+++
-author = "VoidSpaceXYZ"
-title = "!(git commit virtualenv)"
-date = "2018-03-18"
-description = ""
-tags = [
-    "python",
-]
-categories = [
-    "python",
-]
-series = []
-+++
+---
+title: "!(git commit virtualenv)"
+date: "2018-03-18"
+summary: ""
+garden_tags: ["python"]
+status: "evergreen"
+draft: false
+---
 
 So, To write my first blog post of the year, I was attending the first FSMK Sunday School of the year "Handson with Django". I was quite exicted about this for a few reasons.
 

@@ -1,20 +1,16 @@
-+++
-author = "VoidSpaceXYZ"
-title = "Community Owned Technology"
-date = "2024-09-22"
-description = "What does it mean for communities to own technology in the internet era ?"
-tags = [
+---
+title: "Community Owned Technology"
+date: "2024-09-22"
+summary: "What does it mean for communities to own technology in the internet era ?"
+garden_tags: [
     "freedom",
     "internet",
     "communities"
-    
+
 ]
-categories = [
-    "FOSS",
-]
-series = []
-draft=true
-+++
+status: seeding
+draft: true
+---
 
 
 Those are 3 massive words, that require a clear definition to context of this article. Let me explain my focus on those 3 words.

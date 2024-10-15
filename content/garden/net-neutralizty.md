@@ -1,17 +1,10 @@
-+++
-author = "VoidSpaceXYZ"
-title = "Upar wala shab dek raha hai"
-date = "2015-12-22"
-description = ""
-tags = [
-    "freedom",
-    "internet"
-]
-categories = [
-    "FOSS",
-]
-series = []
-+++
+---
+title: "Upar wala shab dek raha hai"
+date: "2015-12-22"
+summary: ""
+garden_tags: ["freedom","internet"]
+status: evergreen
+---
 
 First of all, let me just me translate the title "The one above will look after everything".
 

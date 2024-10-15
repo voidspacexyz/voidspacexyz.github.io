@@ -1,20 +1,13 @@
-+++
-author = "VoidSpaceXYZ"
-title = "The typical Mistake in a FizzBuzz Problem"
-date = "2015-12-18"
-description = ""
-draft = false
-tags = [
+---
+title: "The typical Mistake in a FizzBuzz Problem"
+date: "2015-12-18"
+summary: ""
+garden_tags: [
     "python",
     "interview"
 ]
-categories = [
-    "python",
-]
-series = []
-+++
-
-
+status: evergreen
+---
 
 My first interview question to anybody, their responses and my learnings
 

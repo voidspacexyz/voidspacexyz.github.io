@@ -1,17 +1,10 @@
-+++
-author = "VoidSpaceXYZ"
-title = "IT life and a remote village"
-date = "2015-08-15"
-description = ""
-tags = [
-    "FOSS",
-    "remote village"
-]
-categories = [
-    "FOSS",
-]
-series = []
-+++
+---
+title: "IT life and a remote village"
+date: "2015-08-15"
+summary: ""
+garden_tags: ["FOSS","remote village"]
+status: evergreen
+---
 
 Everybody has dreams in life.
 
