@@ -54,7 +54,8 @@ jobs:
           HUGO_ENVIRONMENT: production
         run: |
           hugo \
-            --minify
+            --minify \
+            --baseURL "https://voidspacexyz.github.io/blog/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
