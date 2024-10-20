@@ -1,7 +1,7 @@
 ---
 title: "Localization : Languages as a FOSS Contribution"
 date: 2019-07-22
-draft: false
+draft: true
 garden_tags: ["translation", "localization"]
 summary: ""
 status: "evergreen"
@@ -41,7 +41,7 @@ According to the [2011 language census](https://censusindia.gov.in/nada/index.ph
 
 Now coming back to the context, lets ask simple questions ?
 
-1. Is it ok, if something is just in Hindi ? What about the litereate 
+1. Is it ok, if something is just in Hindi ? What about the litereate
 
 In the context of FOSS, localization can help create documentation, user interfaces, and marketing materials that resonate with users in Tamilnadu or Karnataka.
 
