@@ -4,11 +4,7 @@ date: 2021-11-11
 description: "The Impact of Free Basics or Internet.org and Net Neutrality to everybody "
 garden_tags: ["freedom","software"]
 status: "evergreen"
-
 ---
-
-
-I trust in Free Software (as defined by GNU). I believe if the technology people has invented something that really is for the people, that is Free Software.
 
 <u><strong>TL;DR</strong></u> : I trust in Free Software (as defined by [GNU](https://web.archive.org/web/20230608164652/https://gnu.org/?ref=voidspacexyzs-blog)). I believe if the technology people has invented something that really is for the people, that is Free Software. While I acknowledge Open Source, I only believe in Free Software as a way forward. I have migrated nearly all of my tools to a Free Software alternative. I encourage you to take free software seriously and give it the most honest try you can and contribute to a collectively owned technology society vs a corporate owned technology society. Non-free software is a social problem, and the solution is to stop using it and move to free software.
 
