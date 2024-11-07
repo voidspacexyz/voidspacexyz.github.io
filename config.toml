@@ -5,6 +5,7 @@ theme = "blog-theme"
 copyright = "All content licensed under CC-By-SA-4.0 or above unless otherwise noted"
 enableGitInfo = true
 enableRobotsTXT = true
+ignorefiles = [ "draft/.*" ]
 
 [params]
 name = "VoidSpaceXYZ"
