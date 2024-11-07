@@ -4,6 +4,7 @@ author: "B.R Ambedkar"
 date: 2021-07-10
 draft: fasle
 image: featured.jpg
+suggesstion: mustread
 summary: "A timeless critique on the realities of caste in India. Caste is a 2000+ year old layered and hirearchical social seperation and discrimination of people. This undelivered speech by Dr B.R Ambedkar, highlights why caste is a social and politically irreprasable monster and why we need to eradicate it. Originally a speech prepared for an audience of caste Hindus who ultimately rejected it, the work evolved into a manifesto that challenged not only the oppressive structure of the caste system but also the foundations of Hinduism that sustain it. This speech was expected to be delivered in the year 1928, when the Indian freedom struggle was at its peak."
 library_tags: ["caste", "human-rights"]
 ---

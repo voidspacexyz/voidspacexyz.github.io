@@ -3,7 +3,7 @@ title: "!(git commit virtualenv)"
 date: "2018-03-18"
 summary: ""
 garden_tags: ["python"]
-status: "icebox"
+status: "compost"
 draft: false
 ---
 

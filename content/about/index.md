@@ -4,7 +4,6 @@ description = "About VoidSpaceXYZ"
 date = "2019-02-28"
 lastmod = 2024-10-14
 aliases = ["about-me", "about-us", "about", "contact"]
-author = "VoidSpaceXYZ"
 +++
 
 Well the name is Ramaseshan.S but I go by the name VoidSpaceXYZ on the internet. My interest lies at the intersection of technology, history, culture, and commons.

@@ -5,7 +5,7 @@ theme = "blog-theme"
 copyright = "All content licensed under CC-By-SA-4.0 or above unless otherwise noted"
 enableGitInfo = true
 enableRobotsTXT = true
-ignorefiles = [ "draft/.*" ]
+ignorefiles = ["draft/.*"]
 
 [params]
 name = "VoidSpaceXYZ"
@@ -14,14 +14,14 @@ initials = "V"
 googleAnalytics = ""
 
 [[params.social]]
-name = "Twitter"
-link = "https://twitter.com/voidspacexyz"
-icon = "fab fa-twitter"
-
-[[params.social]]
 name = "Github"
 link = "https://github.com/voidspacexyz"
 icon = "fab fa-github"
+
+[[params.social]]
+name = "Gitlab"
+link = "https://gitlab.com/voidspacexyz"
+icon = "fab fa-gitlab"
 
 [[params.social]]
 name = "LinkedIn"
@@ -29,9 +29,15 @@ link = "https://in.linkedin.com/in/ramaseshan-s-8793a558"
 icon = "fab fa-linkedin-in"
 
 [[params.social]]
+name = "Twitter"
+link = "https://twitter.com/voidspacexyz"
+icon = "fab fa-twitter"
+
+[[params.social]]
 name = "Instagram"
 link = "https://www.instagram.com/voidspacexyz"
 icon = "fab fa-instagram"
+
 [[params.social]]
 name = "Mastodon"
 link = "https://mastodon.xyz/@voidspacexyz"
