@@ -14,12 +14,12 @@ status: seeding
 ---
 
 ### Constraints of the assignment
-• Contextualise how the selected case study fits within the module’s themes by describing which type or aspect of heritage and/or culture it covers.
-• You must also discuss the four following aspects, which can be supported by a theoretical framework, or academic concepts presented in module materials:
-    ◦ What is the narrative/story being communicated? (i.e., give a synopsis)
-    ◦ How does the digital medium affect user interactivity?
-    ◦ What is the overall purpose, goal, or desired impact of the selected case study heritage narrative? (e.g., what do the authors/creators want to communicate/do?)
-    ◦ Who is the respective audience and what effects does the narrative have on that audience? (e.g., emotions elicited, educational, can you find any user reviews)
+• Contextualise how the selected case study fits within the module’s themes by describing which type or aspect of heritage and/or culture it covers.  
+• You must also discuss the four following aspects, which can be supported by a theoretical framework, or academic concepts presented in module materials:  
+    ◦ What is the narrative/story being communicated? (i.e., give a synopsis)  
+    ◦ How does the digital medium affect user interactivity?  
+    ◦ What is the overall purpose, goal, or desired impact of the selected case study heritage narrative? (e.g., what do the authors/creators want to communicate/do?)  
+    ◦ Who is the respective audience and what effects does the narrative have on that audience? (e.g., emotions elicited, educational, can you find any user reviews)  
 
 ### Submitted work
 
