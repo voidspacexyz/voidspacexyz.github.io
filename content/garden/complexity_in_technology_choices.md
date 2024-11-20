@@ -119,7 +119,7 @@ Technology and design decisions thus play a very crucial part in every decision 
 a digital scholarship.
 
 
-### Reference:
+### References:
 
 Edmond, Jennifer, and Francesca Morselli. 2020. “Sustainability of Digital Humanities
 Projects as a Publication and Documentation Challenge.” Journal of Documentation 76 (5):
