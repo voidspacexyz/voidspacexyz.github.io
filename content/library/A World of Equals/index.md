@@ -4,6 +4,7 @@ author: "Susie Tharu , A. Suneetha and Uma Maheswari Bhrugubanda"
 date: 2021-07-10
 draft: fasle
 image: featured.jpg
+reading: easy, short
 suggesstion: mustread
 summary: ""
 library_tags: ["caste", "human-rights", "gender"]
