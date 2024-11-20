@@ -123,12 +123,12 @@ a digital scholarship.
 
 Edmond, Jennifer, and Francesca Morselli. 2020. “Sustainability of Digital Humanities
 Projects as a Publication and Documentation Challenge.” Journal of Documentation 76 (5):
-1019–31. https://doi.org/10.1108/jd-12-2019-0232.
+1019–31. https://doi.org/10.1108/jd-12-2019-0232.  
 Drucker, Johanna. 2021. “Sustainability and Complexity: Knowledge and Authority in the
 Digital Humanities.” Digital Scholarship in the Humanities 36 (Supplement_2): ii86–94.
-https://doi.org/10.1093/llc/fqab025.
-“Omeka S.” n.d. https://omeka.org/s/. Accessed October 26, 2024.
-“HuMetricsHSS.” n.d. https://humetricshss.org/. Accessed October 26, 2024.
+https://doi.org/10.1093/llc/fqab025.  
+“Omeka S.” n.d. https://omeka.org/s/. Accessed October 26, 2024.  
+“HuMetricsHSS.” n.d. https://humetricshss.org/. Accessed October 26, 2024.  
 “LHA.” n.d. https://lesbianherstoryarchives.org/. Accessed October 26, 2024.
 
 
