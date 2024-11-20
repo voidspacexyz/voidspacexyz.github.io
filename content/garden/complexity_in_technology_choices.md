@@ -74,10 +74,7 @@ of Lesbian lives and activities. Doing this also serves to uncover and document 
 previously denied to us by patriarchal historians in the interests of the culture that they
 served. The existence of the Archives will thus enable current and future generations to
 analyse and reevaluate the Lesbian experience (LHAWeb). LHA is a non-academic digitized
-archive. The objects of the collections are crowdsourced from members of the lesbian
-
-
-community, containing images, videos, physical objects like t-shirts, cassettes etc. The
+archive. The objects of the collections are crowdsourced from members of the lesbian community, containing images, videos, physical objects like t-shirts, cassettes etc. The
 funding for the archive is also crowdsourced from individual contributors of the LGBTQI+
 community members. LHA employed Omeka S (Omeka S) as its digital scholarship platform
 to curate and present its assets. Users can access, use, and reuse artefacts through this
