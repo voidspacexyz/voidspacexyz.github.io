@@ -21,12 +21,12 @@ status: seeding
 ### Submitted work
 
 Outputs of digital humanities projects are often lost to the challenges of technology choices.
-Technology plays a crucial role in the form of tools or programming languages we choose to
-
-analyse, process, or present data, the platforms we choose to host the output, data formats,
+Technology plays a crucial role in the form of tools or programming languages we choose toanalyse, process, or present data, the platforms we choose to host the output, data formats,
 and the standards we choose to adopt. Technology decisions are typically sought just for the
 timeframe of the funded project cycle, making digital scholarship short-lived and the
 sustainability of the project an afterthought.
+
+
 Sustainability lacks a globally defined standard, and must be tailored to each project.
 Edmond and Morselli (2020), highlight that it has to be looked from the lens of the project in
 terms of platform and tools, from the lens of the user as the ability to access, use, and reuse
@@ -35,6 +35,8 @@ which, once complete, is relatively stable, available, and discoverable (Edmond 
 2020). Digital scholarship platforms like Omeka S or WordPress necessitate continuous
 human effort for regular updates and maintenance, extending their stability beyond the
 initial project timeline.
+
+
 Drucker (2021) raises an important question if the technology choice can represent the
 complex knowledge of a digital scholarship. Humanistic inquiry, rooted in the relation
 between a provocative artifact and a hermeneutic engagement, could simply not, ever, be
@@ -44,6 +46,8 @@ instead, how do we expose the ideological stakes in pitting an approach to knowl
 complex system against one that imagines it to be instrumental and deterministic? The
 cultural stakes of this question are very high—they include control over the authority to
 decide what constitutes legitimate knowledge. (Drucker 2021).
+
+
 Design decisions are an extension of complexity. Drucker (2021) argues, “never wed
 intellectual content to a platform structure, as getting it out is a time-consuming and tedious
 process”. Drucker (2021) also highlights their experience with Drupal as a choice of
@@ -51,21 +55,27 @@ framework, and how upgrades to the platform were making the entire project obsol
 Drucker (2021), concluded that migration to a simple HTML/CSS format with hardcoded links
 was a more sustainable decision. Design decisions should be thought through in short- and
 long-term timeframes and expectations of scale (Drucker 2021).
+
+
 Longevity is another parameter of sustainability. Longevity is the ability to remain functional
 and accessible beyond the timeframe of the project (EndProj). Longevity and sustainability
 depend on complex relationships that are ephemeral, no matter how conscientiously
 considered at the outset (Drucker, 2021).
+
 Drucker (2021) notes “to be wary of the reification of sustainability as a thing, one that is
 addressed through mechanistic and instrumental approaches”. Instead, we need to think of
 the work of digital humanities as radically incomplete, always ongoing (Drucker, 2021).
 Edmond and Morselli (2021) also highlight that “It is also important to look at sustainability
 as a process instead of a state”.
+
+
 The Lesbian Herstory Archives (LHA) exists to gather, preserve and provide access to records
 of Lesbian lives and activities. Doing this also serves to uncover and document our herstory
 previously denied to us by patriarchal historians in the interests of the culture that they
 served. The existence of the Archives will thus enable current and future generations to
 analyse and reevaluate the Lesbian experience (LHAWeb). LHA is a non-academic digitized
 archive. The objects of the collections are crowdsourced from members of the lesbian
+
 
 community, containing images, videos, physical objects like t-shirts, cassettes etc. The
 funding for the archive is also crowdsourced from individual contributors of the LGBTQI+
@@ -74,12 +84,16 @@ to curate and present its assets. Users can access, use, and reuse artefacts thr
 portal. LHA started in the 1970s and the project has sustained for 50+ years, making it a
 compelling case study to understand the intersection of digital humanities, technology, and
 sustainability.
+
+
 The project can be analysed in five categories based on the academic references chosen:
 data collection, digital platform, data formats and standards, and documentation.
 Firstly, the LHA's reliance on crowdsourcing for both funding and content underscores the
 importance of community engagement and collaboration.Drucker (2021) highlights that the
 individual researcher should work within their means -- technical, institutional, intellectual
 and financial.
+
+
 Secondly, the use of Omeka-S, while productive in curating and accessing the scholarship,
 raises the question of complex representation of tangible and intangible assets, combined
 with tacit knowledge vs complex technological frameworks. Edmond and Morselli (2020) in
@@ -92,6 +106,8 @@ for archival material etc) and publish work in common platforms like GitHub for 
 open repositories for reports.Drucker (2021) also highlights that decisions about the format
 have implications for sustainability that depend on larger cultural forces, market-driven
 decisions and industry standards.
+
+
 Lastly, technical documentation of the tools and their integration should be openly available
 (Edmond and Morselli, 2020), highlighting the need to document and make available tacit
 knowledge and understanding for a sustainable project. Knowledge sharing across the
